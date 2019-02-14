@@ -1,0 +1,20 @@
+{
+  "name": "third_level_activity",
+  "version": "0.0.1",
+  "type": "flogo:activity",
+  "description": "activity description",
+  "ref": "github.com/svillagomez/activities/third_level_activity",
+  "author": "Santiago Villagomez <sanvilla312@hotmail.com>",
+  "inputs":[
+    {
+      "name": "input",
+      "type": "string"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "output",
+      "type": "string"
+    }
+  ]
+}
